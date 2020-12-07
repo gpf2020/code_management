@@ -1,4 +1,5 @@
-﻿#ifndef DEMO_H
+﻿yes
+#ifndef DEMO_H
 #define DEMO_H
 
 #include "demo_global.h"
